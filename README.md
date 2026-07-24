@@ -101,17 +101,17 @@ Start
          ├──────────────────────────────────────────────────────────────┐
          ▼                                                              ▼
 3. Crop Planning                                                4. Soil Health Monitoring
-  │                                                              │
+  │                                                               │
   ├── Select Season                                               ├── Record Soil Test Results
   │      • Rabi                                                   │
   │      • Kharif                                                 ├── Calculate Soil Health Score (/100)
   │      • Zaid                                                   │      • NPK Levels
-  │                                                              │      • pH Value
+  │                                                               │      • pH Value
   ├── AI Crop Rotation                                            │      • Organic Carbon
   │      • Soil Type                                              │      • Moisture Content
   │      • District & Climate                                     │
   │      • Previous Crop History                                  ├── Display Score
-  │                                                              │      • 80–100 → Healthy (Green)
+  │                                                               │      • 80–100 → Healthy (Green)
   ├── Compare Crop Options                                        │      • 50–79  → Moderate (Amber)
   │      • Input Cost                                             │      • 0–49   → Poor (Red)
   │      • Expected Yield                                         │
@@ -127,7 +127,7 @@ Start
   ├── Fetch Hyper-local 7-Day Forecast (IMD)                     ├── Enter
   │      • District Based                                        │      • Field Size
   │                                                              │      • Crop Type
-  ├── AI Advisory                                                 │
+  ├── AI Advisory                                                |
   │      • Irrigate Today                                        ├── Calculate
   │      • Delay Sowing                                          │      • Projected Yield
   │      • Harvest This Week                                     │      • Estimated Input Cost
@@ -148,7 +148,7 @@ Start
   │      • Land Records                                          ├── Sent to Supabase Edge Function
   │      • District                                              │
   │                                                              ├── OpenAI Available?
-  ├── Show Matching Schemes                                     │
+  ├── Show Matching Schemes                                      │
   │      • PM-KISAN                                              │      Yes ──► GPT-4 Response
   │      • PMFBY                                                 │
   │      • TNAU Subsidies                                        │      No ──► Rule-Based Answer
@@ -162,9 +162,9 @@ Start
 9. Finance Tracking                                          10. End of Season - Harvest Recording
   │                                                              │
   ├── Log Expenses                                               ├── Record Harvest
-  │      • Seeds                                                  │      • Actual Yield
-  │      • Fertilizer                                             │      • Sale Price
-  │      • Labour                                                 │      • Buyer Details
+  │      • Seeds                                                 |      • Actual Yield
+  │      • Fertilizer                                            │      • Sale Price
+  │      • Labour                                                │      • Buyer Details
   │      • Equipment                                             │
   │                                                              ├── Compare
   ├── Log Revenue                                                │      • Predicted vs Actual Yield
