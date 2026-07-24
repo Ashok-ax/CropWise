@@ -17,13 +17,15 @@ Over **70% of Tamil Nadu's workforce** depends on agriculture — yet most farmi
 
 ## ✅ Solution
 
-Farmers in Tamil Nadu spend weeks gathering information that should take minutes — visiting government offices for scheme eligibility, consulting middlemen for crop prices, relying on neighbours for weather updates, and guessing soil health by experience alone.
-CropWise eliminates every one of those friction points in a single platform.
-From the moment a farmer logs in, they get a complete picture of their farm — soil health scored and explained, a 7-day weather advisory tailored to their exact district, and a profit estimate before a single seed is sown. Every crop rotation recommendation is generated from TNAU's agro-climatic zone data and ICAR's nutrient management standards — not generic advice, but region-specific guidance built for Tamil Nadu's soil types and seasons.
-Where farmers previously missed out on thousands of rupees in government subsidies simply because they didn't know they qualified, CropWise runs an automatic eligibility check and walks them through the application without leaving the app. Where profit planning used to mean asking a middleman, CropWise calculates projected yield and net income the moment a crop and field size are entered.
-The AI assistant handles questions in both English and Tamil — and falls back to a rule-based engine built from published research when there's no internet connection, ensuring the platform works even in low-connectivity rural areas.
-Every feature feeds the next. Soil data improves rotation recommendations. Recorded harvests refine next season's profit predictions. Government scheme status is tracked alongside crop cycles. Finance, weather, livestock, and marketplace — all connected, all in one place.
-CropWise doesn't just inform farmers. It gives them the same decision-making power that large agribusinesses have — and puts it in their hands for free.
+🔄 No crop rotation guidance → AI-generated multi-season rotation plans based on TNAU agro-climatic zone data and ICAR standards — not guesswork
+🧪 No soil visibility → Soil Health Score out of 100, tracking NPK, pH, organic carbon, and moisture — with clear advice on what to fix and when
+🌦️ No weather-based decisions → Hyper-local 7-day IMD forecasts with direct tips — when to irrigate, sow, or harvest
+📈 No profit forecasting → Enter field size and crop type — instantly see projected yield and net profit before sowing a single seed
+🏛️ Missing government subsidies → Auto eligibility check for PM-KISAN, PMFBY, and TNAU schemes with a guided in-app application — no office visits
+🤖 No expert access → Bilingual AI assistant (English + Tamil) powered by OpenAI, with an offline rule-based fallback built from TNAU and ICAR research
+💰 No financial clarity → Season-wise expense and revenue tracking with P&L reports — so farmers know exactly what each crop earned
+🐄 Scattered farm records → Livestock, dairy, poultry, and fisheries all managed in one place
+🛒 No direct market access → Built-in marketplace for buying and selling produce, equipment, and inputs
 
 ---
 
