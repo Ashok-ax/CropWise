@@ -1,0 +1,74 @@
+[
+  {
+    "scheme_name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "description": "Central scheme providing income support to small and marginal farmers.",
+    "benefits": "Rs 6,000 per year in three installments directly to bank accounts.",
+    "eligibility": "Small and marginal farmers holding cultivable land. Institutional landholders, higher income taxpayers excluded.",
+    "required_documents": "Aadhaar, land ownership documents, bank account details.",
+    "application_process": "Register at nearest Common Service Centre (CSC) or online via pmkisan.gov.in. Verification by local revenue authorities.",
+    "category": "income support",
+    "farming_type": "all",
+    "location": "India",
+    "official_source": "https://pmkisan.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "description": "Crop insurance scheme protecting farmers against natural calamities, pests and diseases.",
+    "benefits": "Comprehensive crop insurance cover at subsidized premiums (2% kharif, 1.5% rabi, 5% horticulture).",
+    "eligibility": "All farmers growing notified crops in notified areas. Loanee farmers compulsory; others voluntary.",
+    "required_documents": "Aadhaar, land documents, bank account, sowing certificate.",
+    "application_process": "Contact nearest bank, CSC, or insurance company empanelled under PMFBY. Online via portal.",
+    "category": "insurance",
+    "farming_type": "crop",
+    "location": "India",
+    "official_source": "https://pmfby.gov.in"
+  },
+  {
+    "scheme_name": "Soil Health Card Scheme",
+    "description": "Free soil testing and health cards to farmers with nutrient-based fertilizer recommendations.",
+    "benefits": "Free soil test every 2 years with customized fertilizer recommendations per plot.",
+    "eligibility": "All farmers owning cultivable land.",
+    "required_documents": "Land ownership documents, Aadhaar.",
+    "application_process": "Visit nearest soil testing lab or contact village agriculture officer.",
+    "category": "soil health",
+    "farming_type": "all",
+    "location": "India",
+    "official_source": "https://soilhealth.dac.gov.in"
+  },
+  {
+    "scheme_name": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+    "description": "Scheme to expand irrigated area and improve water use efficiency.",
+    "benefits": "Subsidies for micro-irrigation (drip/sprinkler), farm ponds, and water harvesting structures.",
+    "eligibility": "All farmers; micro-irrigation subsidies vary by state.",
+    "required_documents": "Land documents, Aadhaar, bank account, quotation for equipment.",
+    "application_process": "Apply at district agriculture/horticulture office or online state portal.",
+    "category": "irrigation",
+    "farming_type": "all",
+    "location": "India",
+    "official_source": "https://pmkpy.gov.in"
+  },
+  {
+    "scheme_name": "Kisan Credit Card (KCC)",
+    "description": "Easy access to short-term credit for cultivation, equipment, and post-harvest needs.",
+    "benefits": "Collateral-free loan up to Rs 1.6 lakh at 4% effective interest (with subvention). Interest subvention for prompt repayment.",
+    "eligibility": "All farmers, share croppers, tenant farmers, dairy and fisheries farmers.",
+    "required_documents": "Land documents, Aadhaar, bank account, KCC application form.",
+    "application_process": "Apply at your bank branch with land documents. Sanction typically within 2-3 weeks.",
+    "category": "credit",
+    "farming_type": "all",
+    "location": "India",
+    "official_source": "https://www.myscheme.gov.in/schemes/kcc"
+  },
+  {
+    "scheme_name": "National Mission on Natural Farming",
+    "description": "Promotes natural/organic farming to reduce input costs and improve soil health.",
+    "benefits": "Financial assistance for training, inputs, and demonstration; up to Rs 19,000/ha over 3 years.",
+    "eligibility": "Farmers willing to adopt natural farming practices; individual and group clusters.",
+    "required_documents": "Land documents, Aadhaar, bank account.",
+    "application_process": "Apply through state agriculture department or cluster coordinator.",
+    "category": "organic farming",
+    "farming_type": "all",
+    "location": "India",
+    "official_source": "https://nfsb.gov.in"
+  }
+]

@@ -1,0 +1,13 @@
+crop_name,category,water_requirement,growing_period_days,suitable_seasons,suitable_soil_types,estimated_investment_per_acre,estimated_revenue_per_acre,risk_level,difficulty,description
+Rice (Paddy),cereal,high,110,"kharif,monsoon","clay,loam",25000,55000,medium,medium,Staple cereal crop requiring standing water; suited to clay and loam soils in kharif/monsoon season.
+Wheat,cereal,medium,120,"rabi,winter","loam,alluvial",20000,45000,low,easy,Winter cereal; grows well in loam and alluvial soils with moderate water.
+Maize,cereal,medium,90,"kharif,summer","loam,sandy loam",18000,40000,medium,easy,Versatile cereal used for grain and fodder; warm-season crop.
+Cotton,cash,medium,160,kharif,"black,loam",35000,80000,high,hard,Major fibre crop; needs careful pest management and longer growing period.
+Sugarcane,cash,high,330,"spring,monsoon","loam,alluvial",60000,150000,medium,medium,Long-duration cash crop with high water requirement and high revenue potential.
+Groundnut,oilseed,low,110,"kharif,summer","sandy,sandy loam",22000,50000,medium,medium,Oilseed crop suited to sandy soils with lower water needs.
+Tomato,vegetable,medium,90,"rabi,summer","loam,sandy loam",30000,70000,high,medium,Popular vegetable with good market demand; needs staking and pest control.
+Onion,vegetable,low,100,"rabi,kharif","loam,sandy loam",28000,65000,medium,medium,Storage-friendly vegetable with seasonal price volatility.
+Banana,fruit,high,300,"spring,monsoon","loam,alluvial",50000,120000,medium,medium,Perennial fruit crop with high water and nutrient needs.
+Mango,fruit,low,1095,"spring,summer","loam,alluvial",40000,100000,low,easy,Long-term orchard crop; first yield after 3-5 years.
+Soybean,oilseed,medium,100,kharif,"loam,sandy loam",20000,48000,medium,easy,Protein-rich oilseed improving soil nitrogen; kharif crop.
+Bengal Gram (Chickpea),pulse,low,110,rabi,"loam,black",16000,42000,low,easy,Rabi pulse crop; drought-tolerant and fixes soil nitrogen.
