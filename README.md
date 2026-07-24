@@ -54,7 +54,7 @@ Every recommendation traces back to published guidelines from TNAU, ICAR, and KV
 
 ## 🏗️ System Architecture
 --
-**Dashboard overview**
+```
 Farmer logs in every day
         ↓
 Dashboard shows:
@@ -70,6 +70,7 @@ Dashboard shows:
         └── Financial status
         ↓
 Today's actionable items displayed
+```
 > No separate backend server — the frontend talks to Supabase directly for all data operations.
 
 ---
