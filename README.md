@@ -22,15 +22,6 @@ Every recommendation traces back to published guidelines from TNAU, ICAR, and KV
 
 ---
 
-✨ Key Features
-
-| Feature | What It Does |
-|---|---|
-| 🔄 **Crop Rotation Planner** | AI-generated Rabi/Kharif/Zaid sequences optimized for Tamil Nadu's agro-climatic zones |
-| 🧪 **Soil Health Score** | NPK balance, pH, organic carbon, and moisture — scored out of 100 with actionable advice |
-| 🌦️ **Weather Advisory** | Hyper-local 7-day IMD forecasts with tips on when to irrigate, harvest, or delay sowing |
-| 
-
 ## ✨ Key Features
 
 | Feature | What It Does |
