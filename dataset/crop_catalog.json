@@ -52,7 +52,7 @@
     "description": "Major fibre crop; needs careful pest management and longer growing period."
   },
   {
-    "crop_name"; "Sugarcane",
+    "crop_name": "Sugarcane",
     "category": "cash",
     "water_requirement": "high",
     "growing_period_days": 330,
