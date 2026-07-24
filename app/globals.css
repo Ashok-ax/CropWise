@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 33% 98%;
+    --foreground: 150 20% 12%;
+    --card: 0 0% 100%;
+    --card-foreground: 150 20% 12%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 150 20% 12%;
+    --primary: 142 64% 30%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 35 45% 88%;
+    --secondary-foreground: 28 45% 25%;
+    --muted: 40 20% 94%;
+    --muted-foreground: 150 8% 42%;
+    --accent: 85 50% 45%;
+    --accent-foreground: 150 20% 12%;
+    --destructive: 0 72% 48%;
+    --destructive-foreground: 0 0% 100%;
+    --success: 142 60% 38%;
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%;
+    --warning-foreground: 28 45% 15%;
+    --border: 40 15% 88%;
+    --input: 40 15% 86%;
+    --ring: 142 64% 30%;
+    --chart-1: 142 64% 30%;
+    --chart-2: 35 80% 55%;
+    --chart-3: 197 50% 45%;
+    --chart-4: 38 92% 55%;
+    --chart-5: 12 70% 50%;
+    --radius: 0.625rem;
+  }
+  .dark {
+    --background: 150 18% 8%;
+    --foreground: 40 20% 92%;
+    --card: 150 14% 11%;
+    --card-foreground: 40 20% 92%;
+    --popover: 150 14% 11%;
+    --popover-foreground: 40 20% 92%;
+    --primary: 142 55% 45%;
+    --primary-foreground: 150 20% 8%;
+    --secondary: 150 10% 18%;
+    --secondary-foreground: 40 20% 90%;
+    --muted: 150 10% 16%;
+    --muted-foreground: 40 10% 65%;
+    --accent: 85 40% 40%;
+    --accent-foreground: 40 20% 92%;
+    --destructive: 0 60% 50%;
+    --destructive-foreground: 0 0% 100%;
+    --success: 142 50% 45%;
+    --success-foreground: 0 0% 100%;
+    --warning: 38 85% 50%;
+    --warning-foreground: 28 45% 10%;
+    --border: 150 10% 20%;
+    --input: 150 10% 22%;
+    --ring: 142 55% 45%;
+    --chart-1: 142 55% 45%;
+    --chart-2: 35 75% 55%;
+    --chart-3: 197 50% 55%;
+    --chart-4: 38 85% 55%;
+    --chart-5: 12 65% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .bg-grid-pattern {
+    background-image: linear-gradient(rgba(142, 64, 30, 0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(142, 64, 30, 0.04) 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+  }
+  .animate-slide-up {
+    animation: slideUp 0.5s ease-out forwards;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+html {
+  scroll-behavior: smooth;
+}
