@@ -1,5 +1,5 @@
 # 🌾 CropWise
-### Empowering Tamil Nadu Farmers with Smart Technology
+### Empowering Every Upcoming Farmers with Smart Technology
 **Team ZYRO** | Full-Stack AgriTech Web App
 
 ---
