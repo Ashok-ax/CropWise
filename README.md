@@ -159,6 +159,4 @@ Every suggestion in CropWise traces back to published agricultural research — 
 - [PM-KISAN Official Portal](https://pmkisan.gov.in)
 - [PMFBY — Pradhan Mantri Fasal Bima Yojana](https://pmfby.gov.in)
 - [IMD — India Meteorological Department](https://mausam.imd.gov.in)
-- [Supabase Docs](https://supabase.com/docs)
-- [Next.js 13 App Router Docs](https://nextjs.org/docs)
--
+
