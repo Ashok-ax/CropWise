@@ -52,7 +52,7 @@
     "description": "Major fibre crop; needs careful pest management and longer growing period."
   },
   {
-    "crop_name": "Sugarcane",
+    "crop_name"; "Sugarcane",
     "category": "cash",
     "water_requirement": "high",
     "growing_period_days": 330,
@@ -84,7 +84,7 @@
     "growing_period_days": 90,
     "suitable_seasons": "rabi,summer",
     "suitable_soil_types": "loam,sandy loam",
-    "estimated_investment_per_acre": 30000,
+    "estimated_inverstment_per_acre": 30000,
     "estimated_revenue_per_acre": 70000,
     "risk_level": "high",
     "difficulty": "medium",
