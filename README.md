@@ -17,15 +17,15 @@ Over **70% of Tamil Nadu's workforce** depends on agriculture — yet most farmi
 
 ## ✅ Solution
 
--🔄 No crop rotation guidance → AI-generated multi-season rotation plans based on TNAU agro-climatic zone data and ICAR standards — not guesswork
--🧪 No soil visibility → Soil Health Score out of 100, tracking NPK, pH, organic carbon, and moisture — with clear advice on what to fix and when
--🌦️ No weather-based decisions → Hyper-local 7-day IMD forecasts with direct tips — when to irrigate, sow, or harvest
--📈 No profit forecasting → Enter field size and crop type — instantly see projected yield and net profit before sowing a single seed
--🏛️ Missing government subsidies → Auto eligibility check for PM-KISAN, PMFBY, and TNAU schemes with a guided in-app application — no office visits
--🤖 No expert access → Bilingual AI assistant (English + Tamil) powered by OpenAI, with an offline rule-based fallback built from TNAU and ICAR research
--💰 No financial clarity → Season-wise expense and revenue tracking with P&L reports — so farmers know exactly what each crop earned
--🐄 Scattered farm records → Livestock, dairy, poultry, and fisheries all managed in one place
--🛒 No direct market access → Built-in marketplace for buying and selling produce, equipment, and inputs
+- **🔄 No crop rotation guidance → AI-generated multi-season rotation plans based on TNAU agro-climatic zone data and ICAR standards — not guesswork
+- **🧪 No soil visibility → Soil Health Score out of 100, tracking NPK, pH, organic carbon, and moisture — with clear advice on what to fix and when
+- **🌦️ No weather-based decisions → Hyper-local 7-day IMD forecasts with direct tips — when to irrigate, sow, or harvest
+- **📈 No profit forecasting → Enter field size and crop type — instantly see projected yield and net profit before sowing a single seed
+- **🏛️ Missing government subsidies → Auto eligibility check for PM-KISAN, PMFBY, and TNAU schemes with a guided in-app application — no office visits
+- **🤖 No expert access → Bilingual AI assistant (English + Tamil) powered by OpenAI, with an offline rule-based fallback built from TNAU and ICAR research
+- **💰 No financial clarity → Season-wise expense and revenue tracking with P&L reports — so farmers know exactly what each crop earned
+- **🐄 Scattered farm records → Livestock, dairy, poultry, and fisheries all managed in one place
+- **🛒 No direct market access → Built-in marketplace for buying and selling produce, equipment, and inputs
 
 ---
 
