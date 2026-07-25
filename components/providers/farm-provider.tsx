@@ -2,7 +2,7 @@
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
 import { useRouter } from 'next/navigation';
-import { supabase } from '@/lib/superbase';
+import { supabase } from '@/lib/supabase';
 import { Farm, CropRecord } from '@/types/database';
 import { useAuth } from '@/components/providers/auth-provider';
 
